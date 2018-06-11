@@ -5,6 +5,7 @@ date: 2017-07-11 18:29:57
 tags: [coding, javascript, react]
 ---
 
+![Intro to Redux](https://source.unsplash.com/b18TRXc8UPQ/800x500 "Intro to Redux")
 
 > Every state that you ever been is that define who you are today
 
