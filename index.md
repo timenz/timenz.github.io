@@ -13,8 +13,9 @@ layout: default
       <div class="entry">
         {{ post.excerpt }}
       </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="button button-primary">Read More</a>
+      <div class="read-more">
+        <a href="{{ site.baseurl }}{{ post.url }}">Read More >></a>
+      </div>
     </article>
   {% endfor %}
 </div>
