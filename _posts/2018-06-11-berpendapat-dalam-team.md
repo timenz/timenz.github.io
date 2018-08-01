@@ -22,12 +22,12 @@ Ketahui terlebih dahulu `goal` yang ingin dicapai dalam meeting, telusuri data d
 
 ## Salah dalam Menilai Ide Sendiri
 
-Salah satu tercepat dalam menenggelamkan kredibilitas suatu ide adalah dengan meruntuhkan `value` dari ide tersebut. Hindari mengungkapkan ide dengan “Menurut saya …”, “Saya Merasa …”, “Saya yakin …” karena mudah dipotong oleh member lain dan `value` dari ide yang disampaikan akan drop duluan. Sebaiknya buka pendapat dengan `data` yang bisa mendukung pendapat yang disampaikan, suatu keputusan yang dibuat berdasar data yang teruji akan lebih jelas untuk mendefinisikan langkah-langkah untuk implementasinya dan metrik untuk mengukur tingkat keberhasilannya. 
+Salah satu tercepat dalam menenggelamkan kredibilitas suatu ide adalah dengan meruntuhkan `value` dari ide tersebut. Hindari mengungkapkan ide dengan “Menurut saya …”, “Saya Merasa …”, “Saya yakin …” karena mudah dipotong oleh member lain dan `value` dari ide yang disampaikan akan drop duluan. Sebaiknya buka pendapat dengan `data` yang bisa mendukung pendapat yang disampaikan, suatu keputusan yang dibuat berdasar data yang teruji akan lebih jelas untuk mendefinisikan langkah-langkah untuk implementasinya dan metrik untuk mengukur tingkat keberhasilannya.
 
 ## Tidak Siap Dalam Menerima Penolakan
 
 Tidak semua pendapat akan diterima dalam tim, karena keputusan harus mengambil keputusan terbaik dalam tim. Tapi bukan berarti pendapat kamu itu tidak bermanfaat dalam tim, meskipun ditolak pendapat kamu itu ikut memperkuat keputusan yang telah diambil.
 
-Sebagai kesimpulan, dalam tim berpendapat itu hukumnya wajib, gak usah mikir pendapat kamu akan diterima atau enggak nantinya yang penting udah menyampaikan anspirasi terlebih dahulu. 
+Sebagai kesimpulan, dalam tim berpendapat itu hukumnya wajib, gak usah mikir pendapat kamu akan diterima atau enggak nantinya yang penting udah menyampaikan anspirasi terlebih dahulu.
 
 So selamat berpendapat.

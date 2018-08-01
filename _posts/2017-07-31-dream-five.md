@@ -2,6 +2,7 @@
 layout: post
 title: Dream5
 date: 2017-07-31 18:35:27 +0700
+published: false
 ---
 
 My father ever told me that the ‘real’ world not as quite as now, there are just plenty people that on ‘real’ world at time. I am not saying that there less people in the world, with great improvement in medical tech in recent decade that decrease dead rate and improve life expectancy. And the earth itself become more better place, with less people that active in real world, governments of the world can create restrictions so the earth can heal itself, now there more forest, more wild animal and the air more colder than before. Before they invented the dream device.

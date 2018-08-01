@@ -2,6 +2,7 @@
 layout: post
 title: Intro into Javascript
 date: 2017-07-11 19:19:57
+published: false
 tags:
 ---
 
